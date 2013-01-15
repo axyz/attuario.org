@@ -1,0 +1,1 @@
+<?php $basedir = "/axyz-boilerplate/"; ?>
