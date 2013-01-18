@@ -1,0 +1,25 @@
+include includes/header.php
+include mixins/meta-tags
+mixin meta-tags("titolo")
+include includes/nav.php	
+  
+img.section-banner.hide-for-small(src="http://placehold.it/2560x600&text=Header")
+img.show-for-small(src="http://placehold.it/2560x600&text=Header")
+br
+br
+  
+#content.row
+	.three.columns
+		include includes/servizi-nav
+	.nine.columns
+		h1 Riserve Tecniche
+		ul
+			li Studio ed analisi del processo di riservazione dei sinistri al fine di individuare le strategie ottimali mediante un capillare monitoraggio       dell’area premi e dell’area sinistri
+			li Supporto amministrativo al processo di gestione dei sinistri
+			li Anali statistica dei principali indicatori della sinistralità
+			li Valutazione attuariale delle Riserve effettuata attraverso metodi riconosciuti a livello internazionale
+
+		
+
+include includes/footer.php
+include includes/tail.php

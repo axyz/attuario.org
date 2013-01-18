@@ -1,0 +1,21 @@
+include includes/header.php
+include mixins/meta-tags
+mixin meta-tags("titolo")
+include includes/nav.php	
+  
+img.section-banner.hide-for-small(src="http://placehold.it/2560x600&text=Header")
+img.show-for-small(src="http://placehold.it/2560x600&text=Header")
+br
+br
+  
+#content.row
+	.three.columns
+		include includes/servizi-nav
+	.nine.columns
+		h1 Attuario Incaricato e Attuario Revisore
+		p L’ACS può assumere tali ruoli istituzionali, sia nel ramo vita che in quello danni.
+		p Può inoltre fornire un supporto tecnico qualificato all’Attuario Incaricato interno alla compagnia di assicurazioni.
+		
+
+include includes/footer.php
+include includes/tail.php

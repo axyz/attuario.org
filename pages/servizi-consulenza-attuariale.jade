@@ -1,0 +1,35 @@
+include includes/header.php
+include mixins/meta-tags
+mixin meta-tags("titolo")
+include includes/nav.php	
+  
+img.section-banner.hide-for-small(src="http://placehold.it/2560x600&text=Header")
+img.show-for-small(src="http://placehold.it/2560x600&text=Header")
+br
+br
+  
+#content.row
+	.twelve.columns
+		h1 Servizi
+		p Sempre attenti alle esigenze di mercato e all’evoluzione dello stesso, siamo in grado di fornire un’ampia gamma di servizi.
+		p Per questo la clientela di ACS è costituita da aziende private e pubbliche di medie e grandi dimensioni, da società multinazionali, quotate in mercati finanziari italiani ed esteri, operanti nei più importanti settori dell'economia, dalle principali compagnie assicurative italiane, ma anche da Broker Assicurativi nazionali e internazionali.
+		div(style="padding-left:4em;")
+			ul
+				li 
+					a(href="attuario-incaricato-attuario-revisore.php") Attuario Incaricato e Attuario Revisore
+				li 
+					a(href="autorizzazione-esercizio-attivita-assicurativa.php") Autorizzazione all’esercizio dell’attività assicurativa
+				li 
+					a(href="pricing-profit-testing.php") Pricing & Profit Testing
+				li 
+					a(href="riserve-tecniche.php") Riserve Tecniche
+				li 
+					a(href="riassicurazione.php") Riassicurazione
+				li 
+					a(href="ias-ifrs-valutazioni-aziende-portafogli.php") Valutazioni: Aziende e Portafogli – IAS/IFRS
+				li 
+					a(href="alm-asset-liability-management.php") Asset/Liability Management (ALM)
+  
+
+include includes/footer.php
+include includes/tail.php

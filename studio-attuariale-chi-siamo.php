@@ -20,7 +20,7 @@
 	<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Kelly+Slab' rel='stylesheet' type='text/css'>
-<title>Contacts</title><nav class="top-bar fixed">
+<title>titolo</title><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>">ACS</a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -33,54 +33,13 @@
         <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
-  </nav><br/>
-<div class="row">
-  <div class="nine columns">
-    <h3>Get in Touch!</h3>
-    <p>We'd love to hear from you. You can either reach out to us as a whole and one of our awesome team members will get back to you, or if you have a specific question reach out to one of our staff. We love getting email all day <em>all day</em>.</p>
-    <dl class="contained tabs">
-      <dd class="active"><a href="#contactForm">Contact Our Company</a></dd>
-      <dd><a href="#contactPeople">Specific Person</a></dd>
-    </dl>
-    <ul class="tabs-content contained">
-      <li id="contactFormTab" class="active">
-        <div class="row collapse">
-          <div class="two columns">
-            <label class="inline">Your Name</label>
-          </div>
-          <div class="ten columns">
-            <input type="text" id="yourName"/>
-          </div>
-        </div>
-        <div class="row collapse">
-          <div class="two columns">
-            <label class="inline">Your Email</label>
-          </div>
-          <div class="ten columns">
-            <input type="text" id="yourEmail"/>
-          </div>
-        </div>
-        <label>What's up?</label>
-        <textarea rows="4"></textarea>
-        <button type="submit" class="radius button">Submit</button>
-      </li>
-      <li id="contactPeopleTab">
-        <ul class="block-grid five-up">
-          <li> <a href="mailto:mal@serenity.bc.reb"> </a><img src="http://placehold.it/200x200&amp;text=[person]"/><br/><span>Andrea Moretti</span></li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-  <div class="three columns">
-    <h5>Map</h5>
-    <p><a href="" data-reveal-id="mapModal"> <img src="http://placehold.it/400x280"/></a><br/><a href="" data-reveal-id="mapModal">View Map</a></p>
-    <p>
-      123 Awesome St. 
-      <br>
-      Barsoom, MA 95155
-      
-      
-    </p>
+  </nav><img src="http://placehold.it/2560x600&amp;text=Header" class="section-banner hide-for-small"/><img src="http://placehold.it/2560x600&amp;text=Header" class="show-for-small"/><br/><br/>
+<div id="content" class="row">
+  <div class="twelve columns">
+    <h1>Chi Siamo</h1>
+    <p>L’Associazione professionale ACS – Actuarial Consulting Services nasce con l’intento di supportare compagnie assicurative italiane ed estere nel problem solving attuariale, in particolare in quello della Responsabilità Civile Auto e dei rami danni in generale.</p>
+    <p>L’Associazione è composta da un team di professionisti del mondo accademico, istituzionale ed aziendale, provenienti dall’Italia e dall’estero: l’esperienza dei nostri associati, maturata sia in ambito teorico che direttamente sul mercato, è unica ed esclusiva ed i nostri partners sono riconosciuti anche a livello internazionale nei rispettivi campi di attività.</p>
+    <p>Questa forte specializzazione, unita ad una profonda conoscenza del mercato, fa sì che la ACS si collochi a buon diritto tra le associazioni leader nel panorama della consulenza attuariale italiana. Il nostro scopo è quello di andare incontro a qualsiasi esigenza attuariale del Cliente ed al tempo stesso contribuire ai processi formativi del personale in tema di questioni assicurative e finanziarie.</p>
   </div>
 </div><footer class="row">
   <div class="twelve columns"><hr />

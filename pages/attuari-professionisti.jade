@@ -1,0 +1,48 @@
+include includes/header.php
+include mixins/meta-tags
+mixin meta-tags("titolo")
+include includes/nav.php	
+  
+img.section-banner.hide-for-small(src="http://placehold.it/2560x600&text=Header")
+img.show-for-small(src="http://placehold.it/2560x600&text=Header")
+br
+br
+  
+#content.row
+	.twelve.columns
+		h1 I Nostri Consulenti
+		p La consulenza, frutto delle conoscenze e del coordinamento delle stesse, viene fornita da un gruppo di esperti consulenti, professionisti nel campo del marketing, dell’informatica e del settore finanziario, tutti profondi conoscitori del mercato di riferimento. 
+		p Gli standard della consulenza sono elevati e la stessa viene fornita in tempi brevi e a costi contenuti. 
+		div(style="padding-left:4em;")
+			ul
+				li Responsabili Valutazioni Attuariali:
+					table.six
+						tbody
+							tr
+								td Dottor Stefano Bucci
+								td attuario iscritto all'Ordine dal 1987
+							tr
+								td Dottor Attilio Cupido
+								td attuario iscritto all'Ordine dal 1991
+							tr
+								td Dottor Umberto Trocino
+								td attuario iscritto all'Ordine dal 2005
+							tr
+								td Dottor Marco  Colace
+								td attuario iscritto all'Ordine dal 2013
+				li Coordinatore  Team di Attuari:
+					table.six
+						tbody
+							tr
+								td Dr.ssa Carla Binnella
+								td attuario iscritto all'Ordine dal 2004
+				li Direzione Scientifica e Coordinamento Tecnico della ACS:
+					table.six
+						tbody
+							tr
+								td Professor Enzo Ciminelli
+								td Professore Associato della Facoltà di Statistica dell’Università di Roma “La Sapienza”, docente della cattedra di “Tecnica Attuariale delle Assicurazioni contro i Danni”
+  
+
+include includes/footer.php
+include includes/tail.php

@@ -22,17 +22,18 @@
 	<link href='http://fonts.googleapis.com/css?family=Kelly+Slab' rel='stylesheet' type='text/css'>
 <title>titolo</title><nav class="top-bar fixed">
     <ul>
-      <li class="name"><h1><a href="<?php echo $basedir;?>">Attuario.org</a></h1></li>
+      <li class="name"><h1><a href="<?php echo $basedir;?>">ACS</a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
     </ul>
     <section>
       <ul class="right">
-        <li><a href="#"><i class="icon-info-sign"></i>Chi Siamo</a></li>
-        <li><a href="#"><i class="icon-info-sign"></i>Servizi</a></li>
-        <li><a href="<?php echo $basedir;?>contact.php">Contact</a></li>
+        <li><a href="studio-attuariale-chi-siamo.php"><i class="icon-info-sign"></i>Chi Siamo</a></li>
+        <li><a href="servizi-consulenza-attuariale.php"><i class="icon-info-sign"></i>Servizi</a></li>
+        <li><a href="attuari-professionisti.php"><i class="icon-info-sign"></i>I Nostri Collaboratori</a></li>
+        <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
-  </nav><br><br><br><img src="http://placehold.it/2560x600&amp;text=Header"/><br/><br/>
+  </nav><img src="http://placehold.it/2560x600&amp;text=Header"/><br/><br/>
 <div id="content" class="row">
   <div class="twelve columns">
     <h1>Title</h1>
