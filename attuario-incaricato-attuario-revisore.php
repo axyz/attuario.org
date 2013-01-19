@@ -47,7 +47,7 @@
     </ul>
   </div>
   <div class="nine columns">
-    <h1>Attuario Incaricato e Attuario Revisore</h1>
+    <h2>Attuario Incaricato e Attuario Revisore</h2>
     <p>L’ACS può assumere tali ruoli istituzionali, sia nel ramo vita che in quello danni.</p>
     <p>Può inoltre fornire un supporto tecnico qualificato all’Attuario Incaricato interno alla compagnia di assicurazioni.</p>
   </div>

@@ -47,7 +47,7 @@
     </ul>
   </div>
   <div class="nine columns">
-    <h1>Valutazioni: Aziende e Portafogli – IAS/IFRS</h1>
+    <h2>Valutazioni: Aziende e Portafogli – IAS/IFRS</h2>
     <p>Predisposizione dei bilanci IAS-IFRS, con assistenza nell’impostazione della fase di transizione, nella formazione e con perizie indipendenti:</p>
     <div style="padding-left:4em;">
       <ul>

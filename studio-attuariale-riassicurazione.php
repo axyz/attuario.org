@@ -47,7 +47,7 @@
     </ul>
   </div>
   <div class="nine columns">
-    <h1>Riassicurazione</h1>
+    <h2>Riassicurazione</h2>
     <ul>
       <li>Analisi del trasferimento dei rischi assunti</li>
       <li>Supporto decisionale per la definizione del piano riassicurativo ottimale, anche in considerazione dell’impatto sul Solvency Capital Requirement</li>

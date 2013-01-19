@@ -36,7 +36,7 @@
   </nav><img src="http://placehold.it/2560x600&amp;text=Header"/><br/><br/>
 <div id="content" class="row">
   <div class="twelve columns">
-    <h1>Chi Siamo</h1>
+    <h2>Chi Siamo</h2>
     <p>L’Associazione professionale ACS – Actuarial Consulting Services nasce con l’intento di supportare compagnie assicurative italiane ed estere nel problem solving attuariale, in particolare in quello della Responsabilità Civile Auto e dei rami danni in generale.</p>
     <p>L’Associazione è composta da un team di professionisti del mondo accademico, istituzionale ed aziendale, provenienti dall’Italia e dall’estero: l’esperienza dei nostri associati, maturata sia in ambito teorico che direttamente sul mercato, è unica ed esclusiva ed i nostri partners sono riconosciuti anche a livello internazionale nei rispettivi campi di attività.</p>
     <p>Questa forte specializzazione, unita ad una profonda conoscenza del mercato, fa sì che la ACS si collochi a buon diritto tra le associazioni leader nel panorama della consulenza attuariale italiana. Il nostro scopo è quello di andare incontro a qualsiasi esigenza attuariale del Cliente ed al tempo stesso contribuire ai processi formativi del personale in tema di questioni assicurative e finanziarie.</p>

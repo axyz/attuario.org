@@ -47,7 +47,7 @@
     </ul>
   </div>
   <div class="nine columns">
-    <h1>Riserve Tecniche</h1>
+    <h2>Riserve Tecniche</h2>
     <ul>
       <li>Studio ed analisi del processo di riservazione dei sinistri al fine di individuare le strategie ottimali mediante un capillare monitoraggio       dell’area premi e dell’area sinistri</li>
       <li>Supporto amministrativo al processo di gestione dei sinistri</li>

@@ -36,7 +36,7 @@
   </nav><img src="http://placehold.it/2560x600&amp;text=Header"/><br/><br/>
 <div id="content" class="row">
   <div class="twelve columns">
-    <h1>I Nostri Consulenti</h1>
+    <h2>I Nostri Consulenti</h2>
     <p>La consulenza, frutto delle conoscenze e del coordinamento delle stesse, viene fornita da un gruppo di esperti consulenti, professionisti nel campo del marketing, dell’informatica e del settore finanziario, tutti profondi conoscitori del mercato di riferimento. </p>
     <p>Gli standard della consulenza sono elevati e la stessa viene fornita in tempi brevi e a costi contenuti. </p>
     <div style="padding-left:4em;">

@@ -36,7 +36,7 @@
   </nav><img src="http://placehold.it/2560x600&amp;text=Header"/><br/><br/>
 <div id="content" class="row">
   <div class="twelve columns">
-    <h1>Servizi</h1>
+    <h2>Servizi</h2>
     <p>Sempre attenti alle esigenze di mercato e all’evoluzione dello stesso, siamo in grado di fornire un’ampia gamma di servizi.</p>
     <p>Per questo la clientela di ACS è costituita da aziende private e pubbliche di medie e grandi dimensioni, da società multinazionali, quotate in mercati finanziari italiani ed esteri, operanti nei più importanti settori dell'economia, dalle principali compagnie assicurative italiane, ma anche da Broker Assicurativi nazionali e internazionali.</p>
     <div style="padding-left:4em;">

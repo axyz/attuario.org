@@ -47,7 +47,7 @@
     </ul>
   </div>
   <div class="nine columns">
-    <h1>Pricing & Profit Testing</h1>
+    <h2>Pricing & Profit Testing</h2>
     <p>Attività di pricing rivolta alla formulazione e redazione di idonee tariffe, articolate in base alle diverse esigenze manifestate dal Cliente ed in linea con la normativa in vigore, con particolare riferimento al ramo RCAuto, nonché analisi della redditività dei prodotti proposti.</p>
   </div>
 </div><footer class="row">
