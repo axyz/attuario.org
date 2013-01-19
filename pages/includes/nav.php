@@ -5,9 +5,9 @@
     </ul>
     <section>
       <ul class="right">
-        <li><a href="studio-attuariale-chi-siamo.php"><i class="icon-info-sign"></i>Chi Siamo</a></li>
-        <li><a href="servizi-consulenza-attuariale.php"><i class="icon-info-sign"></i>Servizi</a></li>
-        <li><a href="attuari-professionisti.php"><i class="icon-info-sign"></i>I Nostri Collaboratori</a></li>
+        <li><a href="studio-attuariale-chi-siamo.php">Chi Siamo</a></li>
+        <li><a href="servizi-consulenza-attuariale.php">Servizi</a></li>
+        <li><a href="attuari-professionisti.php">I Nostri Collaboratori</a></li>
         <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
