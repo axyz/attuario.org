@@ -7,7 +7,9 @@ img(src="http://placehold.it/2560x600&text=Header")
 
 br
 br
-  
+
+<?php if(!isset($_GET['lang']) or $_GET['lang'] == "it") { ?>
+
 #content.row
 	.twelve.columns
 		h2 I Nostri Consulenti
@@ -42,7 +44,12 @@ br
 							tr
 								td Professor Enzo Ciminelli
 								td Professore Associato della Facoltà di Statistica dell’Università di Roma “La Sapienza”, docente della cattedra di “Tecnica Attuariale delle Assicurazioni contro i Danni”
-  
+
+<?php } else { ?>
+
+// ENGLISH
+
+<?php } ?>
 
 include includes/footer.php
 include includes/tail.php

@@ -33,7 +33,7 @@
         <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
-  </nav><img src="http://placehold.it/2560x600&amp;text=Header"/><br/><br/>
+  </nav><img src="http://placehold.it/2560x600&amp;text=Header"/><br/><br/><?php if(!isset($_GET['lang']) or $_GET['lang'] == "it") { ?>
 <div id="content" class="row">
   <div class="twelve columns">
     <h2>I Nostri Consulenti</h2>
@@ -86,7 +86,8 @@
       </ul>
     </div>
   </div>
-</div><footer class="row">
+</div><?php } else { ?>
+<!-- ENGLISH--><?php } ?><footer class="row">
   <div class="twelve columns"><hr />
     <div class="row">
 
