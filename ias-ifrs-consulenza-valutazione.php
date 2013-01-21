@@ -33,7 +33,7 @@
         <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
-  </nav><img src="images/riassicurazione.jpg"/><br/><br/>
+  </nav><img src="images/ias-ifrs.jpg"/><br/><br/>
 <div id="content" class="row">
   <div class="three columns">
     <ul class="side-nav">
@@ -48,15 +48,19 @@
     </ul>
   </div>
   <div class="nine columns">
-    <h2>Riassicurazione</h2>
-    <ul>
-      <li>Analisi del trasferimento dei rischi assunti</li>
-      <li>Supporto decisionale per la definizione del piano riassicurativo ottimale, anche in considerazione dell’impatto sul Solvency Capital Requirement</li>
-      <li>Assistenza nei rapporti con i riassicuratori e la relativa gestione dei contratti</li>
-      <li>Impostazione di tools personalizzati di quotazione di trattati XL e Q/S</li>
-      <li>Valutazione di Trattati non Tradizionali (Adverse Development Cover, Loss Portfolio Transfer, etc)</li>
-      <li>Valutazione analitica dei crediti vs riassicuratori e studio di eventuali Run Off</li>
-    </ul>
+    <h2>Consulenza e Valutazione IAS/IFRS</h2>
+    <p>Predisposizione dei bilanci IAS-IFRS, con assistenza nell’impostazione della fase di transizione, nella formazione e con perizie indipendenti:</p>
+    <div style="padding-left:4em;">
+      <ul>
+        <li>IAS 19 - Valutazione e certificazione attuariale del TFR e degli altri Employee Benefits</li>
+        <li>IAS 37 – Valutazione Fondo d’Indennità</li>
+        <li>IFRS 2 – Valutazione e certificazione attuariale di Piani di Stock Options</li>
+        <li>IAS 39 – Valutazione al Fair Value di portafogli assicurativi e prodotti finanziari</li>
+        <li>IFRS 7 - Test d’Impairment su immobilizzazioni</li>
+        <li>IAS 17 – Valutazione contratti di Leasing</li>
+        <li>IFRS 4 – Valutazione di contratti assicurativi</li>
+      </ul>
+    </div>
   </div>
 </div><footer class="row">
   <div class="twelve columns"><hr />

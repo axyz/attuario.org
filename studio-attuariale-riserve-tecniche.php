@@ -33,7 +33,7 @@
         <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
-  </nav><img src="images/riassicurazione.jpg"/><br/><br/>
+  </nav><img src="images/riserve-tecniche.jpg"/><br/><br/>
 <div id="content" class="row">
   <div class="three columns">
     <ul class="side-nav">
@@ -48,14 +48,12 @@
     </ul>
   </div>
   <div class="nine columns">
-    <h2>Riassicurazione</h2>
+    <h2>Riserve Tecniche</h2>
     <ul>
-      <li>Analisi del trasferimento dei rischi assunti</li>
-      <li>Supporto decisionale per la definizione del piano riassicurativo ottimale, anche in considerazione dell’impatto sul Solvency Capital Requirement</li>
-      <li>Assistenza nei rapporti con i riassicuratori e la relativa gestione dei contratti</li>
-      <li>Impostazione di tools personalizzati di quotazione di trattati XL e Q/S</li>
-      <li>Valutazione di Trattati non Tradizionali (Adverse Development Cover, Loss Portfolio Transfer, etc)</li>
-      <li>Valutazione analitica dei crediti vs riassicuratori e studio di eventuali Run Off</li>
+      <li>Studio ed analisi del processo di riservazione dei sinistri al fine di individuare le strategie ottimali mediante un capillare monitoraggio       dell’area premi e dell’area sinistri</li>
+      <li>Supporto amministrativo al processo di gestione dei sinistri</li>
+      <li>Anali statistica dei principali indicatori della sinistralità</li>
+      <li>Valutazione attuariale delle Riserve effettuata attraverso metodi riconosciuti a livello internazionale</li>
     </ul>
   </div>
 </div><footer class="row">

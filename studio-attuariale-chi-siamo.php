@@ -33,7 +33,7 @@
         <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
-  </nav><img src="http://placehold.it/2560x600&amp;text=Header"/><br/><br/>
+  </nav><img src="images/studio-attuariale.jpg"/><br/><br/>
 <div id="content" class="row">
   <div class="twelve columns">
     <h2>Chi Siamo</h2>

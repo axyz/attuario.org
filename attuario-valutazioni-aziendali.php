@@ -33,7 +33,7 @@
         <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
-  </nav><img src="images/riassicurazione.jpg"/><br/><br/>
+  </nav><img src="images/valutazioni-aziendali.jpg"/><br/><br/>
 <div id="content" class="row">
   <div class="three columns">
     <ul class="side-nav">
@@ -48,14 +48,11 @@
     </ul>
   </div>
   <div class="nine columns">
-    <h2>Riassicurazione</h2>
+    <h2>Valutazioni Aziendali</h2>
     <ul>
-      <li>Analisi del trasferimento dei rischi assunti</li>
-      <li>Supporto decisionale per la definizione del piano riassicurativo ottimale, anche in considerazione dell’impatto sul Solvency Capital Requirement</li>
-      <li>Assistenza nei rapporti con i riassicuratori e la relativa gestione dei contratti</li>
-      <li>Impostazione di tools personalizzati di quotazione di trattati XL e Q/S</li>
-      <li>Valutazione di Trattati non Tradizionali (Adverse Development Cover, Loss Portfolio Transfer, etc)</li>
-      <li>Valutazione analitica dei crediti vs riassicuratori e studio di eventuali Run Off</li>
+      <li>Valutazione e certificazione dell’Embedded Value  e dell’Appraisal Value per le Compagnie di Assicurazioni Vita</li>
+      <li>Valutazione al Fair Value di singoli contratti e dell’intero portafoglio assicurativo</li>
+      <li>Valutazione e certificazione del valore economico di Compagnie di Assicurazioni Danni</li>
     </ul>
   </div>
 </div><footer class="row">

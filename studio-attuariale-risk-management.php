@@ -33,7 +33,7 @@
         <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
-  </nav><img src="images/riassicurazione.jpg"/><br/><br/>
+  </nav><img src="images/risk-management.jpg"/><br/><br/>
 <div id="content" class="row">
   <div class="three columns">
     <ul class="side-nav">
@@ -48,15 +48,16 @@
     </ul>
   </div>
   <div class="nine columns">
-    <h2>Riassicurazione</h2>
-    <ul>
-      <li>Analisi del trasferimento dei rischi assunti</li>
-      <li>Supporto decisionale per la definizione del piano riassicurativo ottimale, anche in considerazione dell’impatto sul Solvency Capital Requirement</li>
-      <li>Assistenza nei rapporti con i riassicuratori e la relativa gestione dei contratti</li>
-      <li>Impostazione di tools personalizzati di quotazione di trattati XL e Q/S</li>
-      <li>Valutazione di Trattati non Tradizionali (Adverse Development Cover, Loss Portfolio Transfer, etc)</li>
-      <li>Valutazione analitica dei crediti vs riassicuratori e studio di eventuali Run Off</li>
-    </ul>
+    <h2>Risk Management</h2>
+    <p>Gestione in outsourcing o come supporto di consulenza per la funzione di Risk Management, nell’ambito di Solvency II:</p>
+    <div style="padding-left:4em;">
+      <ul>
+        <li>analisi e valutazione dei rischi</li>
+        <li>implementazione ed applicazione del modello standard e/o di quello interno</li>
+        <li>individuazione dell’Solvency Capital Requirement e dell’Minimum Capital Requirement</li>
+        <li>Asset Liability Management (ALM)</li>
+      </ul>
+    </div>
   </div>
 </div><footer class="row">
   <div class="twelve columns"><hr />

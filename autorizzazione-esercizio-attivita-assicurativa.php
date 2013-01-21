@@ -33,17 +33,18 @@
         <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
-  </nav><img src="http://placehold.it/2560x600&amp;text=Header"/><br/><br/>
+  </nav><img src="images/autorizzazione-esercizio-attivita-assicurativa.jpg"/><br/><br/>
 <div id="content" class="row">
   <div class="three columns">
     <ul class="side-nav">
       <li> <a href="attuario-incaricato-attuario-revisore.php">Attuario Incaricato e Attuario Revisore</a></li>
       <li> <a href="autorizzazione-esercizio-attivita-assicurativa.php">Autorizzazione all’esercizio dell’attività assicurativa</a></li>
       <li> <a href="pricing-profit-testing.php">Pricing & Profit Testing</a></li>
-      <li> <a href="riserve-tecniche.php">Riserve Tecniche</a></li>
+      <li> <a href="studio-attuariale-riserve-tecniche.php">Riserve Tecniche</a></li>
+      <li> <a href="studio-attuariale-risk-management.php">Risk Management</a></li>
       <li> <a href="studio-attuariale-riassicurazione.php">Riassicurazione</a></li>
-      <li> <a href="ias-ifrs-valutazioni-aziende-portafogli.php">Valutazioni: Aziende e Portafogli – IAS/IFRS</a></li>
-      <li> <a href="alm-asset-liability-management.php">Asset/Liability Management (ALM)</a></li>
+      <li> <a href="attuario-valutazioni-aziendali.php">Valutazioni Aziendali</a></li>
+      <li> <a href="ias-ifrs-consulenza-valutazione.php">Consulenza e Valutazione IAS/IFRS</a></li>
     </ul>
   </div>
   <div class="nine columns">
