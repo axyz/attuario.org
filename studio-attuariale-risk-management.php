@@ -20,9 +20,9 @@
 	<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Kelly+Slab' rel='stylesheet' type='text/css'>
-<title>titolo</title><nav class="top-bar fixed">
+<title>titolo</title><nav class="top-bar">
     <ul>
-      <li class="name"><h1><a href="<?php echo $basedir;?>">ACS</a></h1></li>
+      <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo"/></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
     </ul>
     <section>

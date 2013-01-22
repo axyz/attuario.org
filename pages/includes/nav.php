@@ -1,6 +1,6 @@
-<nav class="top-bar fixed">
+<nav class="top-bar">
     <ul>
-      <li class="name"><h1><a href="<?php echo $basedir;?>">ACS</a></h1></li>
+      <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo"/></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
     </ul>
     <section>
