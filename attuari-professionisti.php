@@ -33,7 +33,8 @@
         <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
-  </nav><img src="images/attuari.jpg"/><br/><br/><?php if(!isset($_GET['lang']) or $_GET['lang'] == "it") { ?>
+  </nav>
+<div class="section-header"> <img src="images/attuari.jpg"/></div><br/><br/><?php if(!isset($_GET['lang']) or $_GET['lang'] == "it") { ?>
 <div id="content" class="row">
   <div class="twelve columns">
     <h2>I Nostri Consulenti</h2>

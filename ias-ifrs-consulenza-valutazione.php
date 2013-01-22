@@ -33,7 +33,8 @@
         <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
-  </nav><img src="images/ias-ifrs.jpg"/><br/><br/>
+  </nav>
+<div class="section-header"> <img src="images/ias-ifrs.jpg"/></div><br/><br/>
 <div id="content" class="row">
   <div class="three columns">
     <ul class="side-nav">

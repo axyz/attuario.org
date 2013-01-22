@@ -34,7 +34,7 @@
       </ul>
     </section>
   </nav>
-<div id="slideshow"><img src="http://placehold.it/1280x600&amp;text=slide1"/><img src="http://placehold.it/1280x600&amp;text=slide2"/><img src="http://placehold.it/1280x600&amp;text=slide3"/><img src="http://placehold.it/1280x600&amp;text=slide4"/></div><br/><br/>
+<div id="slideshow" class="section-header"><img src="http://placehold.it/1280x600&amp;text=slide1"/><img src="http://placehold.it/1280x600&amp;text=slide2"/><img src="http://placehold.it/1280x600&amp;text=slide3"/><img src="http://placehold.it/1280x600&amp;text=slide4"/></div><br/><br/>
 <div id="content" class="row">
   <div class="twelve columns">
     <h1>Title</h1>

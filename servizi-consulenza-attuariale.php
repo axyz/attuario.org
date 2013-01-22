@@ -33,7 +33,8 @@
         <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
-  </nav><img src="images/servizi-attuariali.jpg"/><br/><br/>
+  </nav>
+<div class="section-header"><img src="images/servizi-attuariali.jpg"/></div><br/><br/>
 <div id="content" class="row">
   <div class="twelve columns">
     <h2>Servizi</h2>

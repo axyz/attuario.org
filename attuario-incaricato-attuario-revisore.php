@@ -33,7 +33,8 @@
         <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
-  </nav><img src="images/attuario-incaricato-attuario-revisore.jpg"/><br/><br/>
+  </nav>
+<div class="section-header"> <img src="images/attuario-incaricato-attuario-revisore.jpg"/></div><br/><br/>
 <div id="content" class="row">
   <div class="three columns">
     <ul class="side-nav">
