@@ -15,7 +15,7 @@ html {
 /* line 7, ../../../.gem/ruby/1.9.1/gems/zurb-foundation-3.2.2/scss/foundation/common/_globals.scss */
 body {
   background: white;
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Droid Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 14px;
@@ -149,7 +149,7 @@ aside p {
 
 /* line 15, ../../../.gem/ruby/1.9.1/gems/zurb-foundation-3.2.2/scss/foundation/common/_typography.scss */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Roboto Condensed", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
   color: #222222;
