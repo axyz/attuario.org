@@ -1,1 +1,1 @@
-<?php $basedir = "/attuario.org/"; ?>
+<?php $basedir = "/www/attuario.org/"; ?>
