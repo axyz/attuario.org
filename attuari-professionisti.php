@@ -70,7 +70,7 @@
             <tbody>
               <tr>
                 <td>Dr.ssa Carla Binnella</td>
-                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;attuario iscritto all'Ordine dal 2004</td>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;attuario iscritto all'Ordine dal 2004</td>
               </tr>
             </tbody>
           </table>
