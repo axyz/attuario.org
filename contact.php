@@ -27,14 +27,23 @@
     </ul>
     <section>
       <ul class="right">
+        <li><a href="<?php echo $basedir;?>">Home</a></li>
         <li><a href="studio-attuariale-chi-siamo.php">Chi Siamo</a></li>
         <li><a href="servizi-consulenza-attuariale.php">Servizi</a></li>
         <li><a href="attuari-professionisti.php">I Nostri Collaboratori</a></li>
         <li><a href="contact.php">Contatti</a></li>
       </ul>
     </section>
-  </nav><br/>
-<div class="row"></div><footer class="row">
+  </nav><br/><br/>
+<div id="content" class="row">
+  <div class="four columns">
+    <h2>Contatti</h2>
+    <p><b>Actuarial Consulting Services</b><br>Via Leonida Bissolati 54 <br> 00187 Roma<br><b>Tel.</b> +39 06 42114555<br><b>Fax</b> +39 06 42114556<br></p>
+  </div>
+  <div class="eight columns">
+    <h2>Dove Siamo</h2><iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.it/maps?f=q&amp;source=s_q&amp;hl=it&amp;geocode=&amp;q=Via+L.+Bissolati+54+-+00187+ROMA&amp;aq=&amp;sll=41.908558,12.535998&amp;sspn=0.284632,0.674973&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Leonida+Bissolati,+54,+Roma,+Lazio&amp;ll=41.905324,12.492376&amp;spn=0.008895,0.021093&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.it/maps?f=q&amp;source=embed&amp;hl=it&amp;geocode=&amp;q=Via+L.+Bissolati+54+-+00187+ROMA&amp;aq=&amp;sll=41.908558,12.535998&amp;sspn=0.284632,0.674973&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Leonida+Bissolati,+54,+Roma,+Lazio&amp;ll=41.905324,12.492376&amp;spn=0.008895,0.021093&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Visualizzazione ingrandita della mappa</a></small>
+  </div>
+</div><footer class="row">
   <div class="twelve columns"><hr />
     <div class="row">
 
@@ -44,7 +53,7 @@
 
       <div class="six columns">
         <ul class="link-list right">
-          <li><a href="#">Home</a></li>
+          <li><a href="<?php echo $basedir;?>">Home</a></li>
           <li><a href="contact.php">Contatti</a></li>
         </ul>
       </div>

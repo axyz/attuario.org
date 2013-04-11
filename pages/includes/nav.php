@@ -5,6 +5,7 @@
     </ul>
     <section>
       <ul class="right">
+        <li><a href="<?php echo $basedir;?>">Home</a></li>
         <li><a href="studio-attuariale-chi-siamo.php">Chi Siamo</a></li>
         <li><a href="servizi-consulenza-attuariale.php">Servizi</a></li>
         <li><a href="attuari-professionisti.php">I Nostri Collaboratori</a></li>

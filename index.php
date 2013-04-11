@@ -27,6 +27,7 @@
     </ul>
     <section>
       <ul class="right">
+        <li><a href="<?php echo $basedir;?>">Home</a></li>
         <li><a href="studio-attuariale-chi-siamo.php">Chi Siamo</a></li>
         <li><a href="servizi-consulenza-attuariale.php">Servizi</a></li>
         <li><a href="attuari-professionisti.php">I Nostri Collaboratori</a></li>
@@ -34,14 +35,7 @@
       </ul>
     </section>
   </nav>
-<div id="slideshow" class="section-header"><img src="http://placehold.it/1280x600&amp;text=slide1"/><img src="http://placehold.it/1280x600&amp;text=slide2"/><img src="http://placehold.it/1280x600&amp;text=slide3"/><img src="http://placehold.it/1280x600&amp;text=slide4"/></div><br/><br/>
-<div id="content" class="row">
-  <div class="twelve columns">
-    <h1>Title</h1>
-    <p><span>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis vitae culpa sit nobis alias inventore perferendis id voluptatibus labore modi dignissimos deleniti est asperiores consectetur eveniet veniam architecto et porro."</span><span>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis vitae culpa sit nobis alias inventore perferendis id voluptatibus labore modi dignissimos deleniti est asperiores consectetur eveniet veniam architecto et porro."</span><span>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis vitae culpa sit nobis alias inventore perferendis id voluptatibus labore modi dignissimos deleniti est asperiores consectetur eveniet veniam architecto et porro."</span><span>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis vitae culpa sit nobis alias inventore perferendis id voluptatibus labore modi dignissimos deleniti est asperiores consectetur eveniet veniam architecto et porro."</span><span>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis vitae culpa sit nobis alias inventore perferendis id voluptatibus labore modi dignissimos deleniti est asperiores consectetur eveniet veniam architecto et porro."</span>
-    </p>
-  </div>
-</div><footer class="row">
+<div id="slideshow" class="section-header"><img src="images/conoscenza.jpg"/><img src="images/intelligenza.jpg"/><img src="images/integrazione.jpg"/><img src="images/soluzioni.jpg"/></div><footer class="row">
   <div class="twelve columns"><hr />
     <div class="row">
 
@@ -51,7 +45,7 @@
 
       <div class="six columns">
         <ul class="link-list right">
-          <li><a href="#">Home</a></li>
+          <li><a href="<?php echo $basedir;?>">Home</a></li>
           <li><a href="contact.php">Contatti</a></li>
         </ul>
       </div>

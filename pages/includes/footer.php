@@ -8,7 +8,7 @@
 
       <div class="six columns">
         <ul class="link-list right">
-          <li><a href="#">Home</a></li>
+          <li><a href="<?php echo $basedir;?>">Home</a></li>
           <li><a href="contact.php">Contatti</a></li>
         </ul>
       </div>
