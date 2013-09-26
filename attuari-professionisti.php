@@ -55,6 +55,10 @@
                 <td>attuario iscritto all'Ordine dal 1991</td>
               </tr>
               <tr>
+                <td>Dottor Domenico Cupido</td>
+                <td>attuario iscritto all'Ordine dal 1991</td>
+              </tr>
+              <tr>
                 <td>Dottor Umberto Trocino</td>
                 <td>attuario iscritto all'Ordine dal 2005</td>
               </tr>
